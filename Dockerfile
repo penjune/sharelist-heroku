@@ -1,5 +1,5 @@
 FROM node:8-alpine
-MAINTAINER reruin
+MAINTAINER penjune
 
 ENV PORT 33001
 
